@@ -9,6 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Get me A Chai - Fund a your projects with chai",
   description: "This website is a crowdfunding platform for creators ",
+  icon: 'https://cdn-icons-png.freepik.com/256/2907/2907241.png?semt=ais_hybrid', 
 };
 
 export default function RootLayout({ children }) {
