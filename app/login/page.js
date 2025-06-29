@@ -10,6 +10,7 @@ function Login() {
     const router = useRouter();
     router.push("/dashboard");
   }
+ 
   return (
     <>
       <div className="h-[100px]">
